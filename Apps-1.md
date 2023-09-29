@@ -8,7 +8,7 @@ that process is started on server reboot.
 
 ## Deploy and Configure Database
 
-1. Install MariaDB
+**Install MariaDB**
 
 ```
 sudo yum install -y mariadb-server
@@ -93,8 +93,7 @@ sudo systemctl start httpd ; sudo systemctl enable httpd
 
 Download code with git. Install git if necessary
 
-GIT repo URL :
-https://github.com/kodekloudhub/learning-app-ecommerce.git
+GIT repo URL : https://github.com/kodekloudhub/learning-app-ecommerce.git
 
 target directory : /var/www/html/
 
